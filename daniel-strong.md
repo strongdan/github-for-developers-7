@@ -2,4 +2,4 @@
      2. [ ] From **Juneau, Alaska**
      3. [ ] Pierogis
      4. [ ] *woodworking*
-     /should add my favorite color.
+     5. [ ] Favorite Color is Blue
